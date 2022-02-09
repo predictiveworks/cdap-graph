@@ -45,7 +45,7 @@
     <widgets.dir>widgets</widgets.dir>
 
     <cdap.version>5.1.1</cdap.version>    
-    <hadoop.version>2.8.0</hadoop.version>    
+    <hadoop.version>2.10.1</hadoop.version>    
 	
   </properties>
   
